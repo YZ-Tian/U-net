@@ -1,4 +1,4 @@
 # U-net
 image segmentation based on U-net
-### I adopted the **U-net** architecture to perform image segmentation on the **Pascal VOC** dataset.
-#### The VOC2007 dataset can be accessed in the dataset folder
+### I adopted the __U-net__ architecture to perform image segmentation on the **Pascal VOC** dataset.
+#### Execution order: net --> train --> test.
